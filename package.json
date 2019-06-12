@@ -21,7 +21,7 @@
     "tslib": "^1.9.3"
   },
   "devDependencies": {
-    "babel-preset-expo": "^5.0.0"
+    "babel-preset-expo": "^5.2.0"
   },
   "private": true
 }
