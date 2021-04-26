@@ -16,7 +16,7 @@
     "react-navigation": "^3.11.0",
     "react-redux": "^7.0.3",
     "react-router-native": "^5.0.1",
-    "redux": "^4.0.1",
+    "redux": "^4.1.0",
     "socket.io": "^2.2.0",
     "tslib": "^1.9.3"
   },
